@@ -1,4 +1,4 @@
-mport random
+import random
 
 def play_random(n):
     # using 0-99 instead of ranges 1-100
